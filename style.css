@@ -6,7 +6,7 @@
     --branco-principal: #e70000;
     --cinza-secundario: #45a054;
     --botao-azul: #167BF7;
-    --cor-de-fundo: #ae00ff;
+    --cor-de-fundo: #3c8643;
 }
  body {
     background-color: var(--cor-de-fundo);
