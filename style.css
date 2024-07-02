@@ -94,5 +94,10 @@ container__imagem {
 
 .dispositivos {
    text-align: center;
-   
+}
+
+.dispositivos__titulo {
+   font-size: 48px;
+   color: var(--branco-principal)
+
 }
